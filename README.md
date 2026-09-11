@@ -239,3 +239,6 @@ This repository serves as the official landing page for Remote Desktop Control. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Remote Desktop Control today!**
+
+---
+**Last updated:** 2026-09-11 12:45:50 UTC
