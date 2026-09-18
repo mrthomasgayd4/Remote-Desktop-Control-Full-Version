@@ -241,4 +241,4 @@ This repository serves as the official landing page for Remote Desktop Control. 
 **Get the most recent version of Remote Desktop Control today!**
 
 ---
-**Last updated:** 2026-09-17 22:02:09 UTC
+**Last updated:** 2026-09-18 01:11:11 UTC
